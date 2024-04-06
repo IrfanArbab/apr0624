@@ -1,3 +1,4 @@
 Name = Irfam
 Location = Hyd 
-skills = Highly skilled
+Skills = Highly skilled
+Address = Sec
