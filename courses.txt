@@ -1,1 +1,2 @@
 courses =  devops
+courses 2 = java
