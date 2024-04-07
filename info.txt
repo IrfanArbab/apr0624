@@ -1,4 +1,3 @@
 Name = Irfam
 Location = Hyd 
 skills = Highly skilled
-Kubernetes is also called as k8s
