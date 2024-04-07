@@ -1,5 +1,9 @@
 Name = Irfam
 Location = Hyd 
+<<<<<<< HEAD
 Skills = Highly skilled
 Address = Sec
 Docker is a lightweight tool
+=======
+skills = Highly skilled
+>>>>>>> parent of e66cfce (Docker msg)
